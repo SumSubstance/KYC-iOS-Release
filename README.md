@@ -3,10 +3,23 @@
 ### Installation
 This framework ment to be installed via [cocoapods](https://cocoapods.org/).
 
-* Add to your Podfile new specs repository:
-`source 'https://github.com/SumSubstance/Specs.git'`
-* Add dependency to your target 
-`pod 'SumSubstanceKYC'`  
+* Add to your `Podfile` specs repositories: `SumSubstance/Specs`, and public one - `CocoaPods/Specs`
+* Specify `use_frameworks!` option
+* Add dependency `SumSubstanceKYC` to your target   
+Resulting `Podfile` will looks like following 
+```
+platform :ios, '9.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/SumSubstance/Specs.git'
+
+use_frameworks!
+
+target 'MyAwesomeApp' do
+  pod 'SumSubstanceKYC'
+  # any other dependencies
+end
+```
 * Run `pod install --repo-update`
 
 ### Usage 
