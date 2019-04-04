@@ -1,4 +1,4 @@
-# KYC-iOS-Release 2.0
+# KYC-iOS-Release 2.1
 
 ### Installation
 This framework ment to be installed via [cocoapods](https://cocoapods.org/).
