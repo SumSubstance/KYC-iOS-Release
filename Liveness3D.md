@@ -1,4 +1,4 @@
-# KYC-iOS-Release 2.9.1
+# KYC-iOS-Release 2.9.2
 
 ## Liveness3D module
 
@@ -59,6 +59,7 @@ Where
 * `baseUrl` - `test-msdk.sumsub.com` for test environment or `msdk.sumsub.com` for production one
 * `token` - your Sum&Sub auth token
 * `locale` - user locale (preferably `NSLocale.currentLocale.localeIdentifier`, but you can use any)
+* optionally one can use `liveness3D.theme` property to assign a customized set of colors
 
 Then create and display UI
 ```objc
