@@ -1,4 +1,4 @@
-# KYC-iOS-Release 2.9.2
+# KYC-iOS-Release 2.9.3
 
 :point_right: *Take a look [here](Liveness3D.md) if you'd like to use Liveness3D module only.*
 
