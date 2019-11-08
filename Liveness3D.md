@@ -1,4 +1,4 @@
-# KYC-iOS-Release 2.9.3
+# KYC-iOS-Release 2.10
 
 ## Liveness3D module
 
