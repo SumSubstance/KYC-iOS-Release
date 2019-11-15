@@ -63,7 +63,9 @@ Where
 * `locale` - user locale (preferably `NSLocale.currentLocale.localeIdentifier`, but you can use any)
 * optionally one can use `liveness3D.theme` property to assign a customized set of colors
 
-Note please that being once initialized the overall process is looped until cancelled or completes successfully. So normally you never got `SSLiveness3DStatus_FaceMismatched` completion status. Use the following to change this behaviour.
+Upon success use `result.applicantActionId` as `#{actionId}` to check the results against the server with the [corresponding api call](https://developers.sumsub.com/applicant-actions/#result).
+
+Note please that being initialized once the overall process is looped until cancelled or completes successfully. So normally you never got `SSLiveness3DStatus_FaceMismatched` completion status. Use the following to change this behaviour.
 ```objc
 liveness3D.shouldCompleteOnFaceMismatch = YES;
 ```
