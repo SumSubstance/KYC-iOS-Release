@@ -27,6 +27,17 @@ end
 ```
 * Run `pod install --repo-update`
 
+### Permissions
+
+The framework will ask to have access to the camera and microphone, so it's required to have the corresponding usage descriptions in the application's `Info.plist` file. Something like this:
+
+```xml
+	<key>NSCameraUsageDescription</key>
+	<string>Let us make a photo</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Time to record video</string>
+```
+
 ### Usage 
 To instantiate framework call 
 ```objc
