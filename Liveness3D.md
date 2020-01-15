@@ -1,4 +1,4 @@
-# KYC-iOS-Release 2.11
+# KYC-iOS-Release 2.11.1
 
 ## Liveness3D module
 
@@ -97,7 +97,7 @@ vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
 
 ### Customization
 
-Texts within the Liveness3D module can be customized and/or localized with [Zoom.strings](https://github.com/SumSubstance/KYC-iOS-Release/blob/master/2.11/Zoom.strings) file. Add it to your project, then modify/localize as required.
+Texts within the Liveness3D module can be customized and/or localized with [Zoom.strings](https://github.com/SumSubstance/KYC-iOS-Release/blob/master/2.11.1/Zoom.strings) file. Add it to your project, then modify/localize as required.
 
 Colors could be adjusted by assigning `liveness3D.theme` an object that conforms to `SSLiveness3DThemeProtocol`
 
