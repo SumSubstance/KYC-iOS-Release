@@ -1,3 +1,3 @@
-# iOS Mobile SDK
+# iOS Chatbot Mobile SDK
 
-Documentation can be found [here](https://developers.sumsub.com/msdk/ios.html)
+Documentation can be found [here](https://developers.sumsub.com/msdk/chatbot/)
