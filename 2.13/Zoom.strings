@@ -1,0 +1,67 @@
+//
+// Liveness3D localization
+//
+
+"zoom_accessibility_cancel_button" = "Cancel";
+
+"zoom_action_ok" = "OK";
+"zoom_action_im_ready" = "I'M READY";
+
+"zoom_camera_permission_header" = "Enable Camera";
+"zoom_camera_permission_message_enroll" = "Please enable your selfie camera.";
+"zoom_camera_permission_message_auth" = "Your camera permissions are disabled. Tap below to edit your settings.";
+"zoom_camera_permission_enable_camera" = "ENABLE CAMERA";
+"zoom_camera_permission_launch_settings" = "LAUNCH SETTINGS";
+
+"zoom_feedback_center_face" = "Center Your Face";
+"zoom_feedback_face_not_found" = "Frame Your Face";
+"zoom_feedback_face_not_looking_straight_ahead" = "Look Straight Ahead";
+"zoom_feedback_face_not_upright" = "Hold Your Head Straight";
+"zoom_feedback_hold_steady" = "Hold Steady";
+"zoom_feedback_move_phone_away" = "Move Away";
+"zoom_feedback_move_phone_closer" = "Move Closer";
+"zoom_feedback_move_phone_even_closer" = "Even Closer";
+"zoom_feedback_move_phone_to_eye_level" = "Raise Camera Up To Eye Level";
+"zoom_feedback_use_even_lighting" = "Light Face More Evenly";
+
+"zoom_instructions_header_ready" = "Get Ready For\nYour Video Selfie";
+"zoom_instructions_message_ready" = "Please Frame Your Face In\nThe Small Oval, Then The Big Oval";
+
+"zoom_result_facemap_upload_message" = "Processing";
+
+"zoom_retry_header" = "Let's try that again";
+"zoom_retry_subheader_message" = "But first, please take a look at your photo and correct your environment.";
+"zoom_retry_instruction_message_1" = "Neutral Expression, No Smiling";
+"zoom_retry_instruction_message_2" = "No Glare or Extreme Lighting";
+"zoom_retry_instruction_message_3" = "";
+"zoom_retry_your_image_label" = "Your Selfie";
+"zoom_retry_ideal_image_label" = "Ideal Example";
+
+// Liveness3D
+
+"alert_cancel" = "Cancel";
+"alert_continue" = "Continue";
+"alert_retry" = "Resume";
+"liveness_title" = "Liveness Detection";
+"liveness_check_failed" = "Check failed, please try again.";
+"liveness_check_success" = "Success!";
+"liveness_device_locked" = "Device is locked, please try again later on.";
+"liveness_wrong_orientation" = "Please turn your device so that it is in portrait mode and try again.";
+"liveness_session_timeout" = "You've been inactive for a while. Tap Resume to continue.";
+"liveness_context_switch" = "Please neither lock the screen nor switch to other apps during the process.";
+"liveness_camera_initialization_failure" = "Unable to start the front camera. Please make sure that your camera is functioning properly.";
+"liveness_initializing" = "Initializing...";
+"liveness_network_failure" = "Please check the network connection then try again.";
+"liveness_prepare_for_retake" = "Just a second...";
+"liveness_processing" = "Processing...";
+"liveness_retry_brief_check_hints" = "But first, please make sure your environment meets the requirements.";
+"liveness_retry_brief_check_images" = "But first, please take a look at your images and correct your environment.";
+"liveness_retry_general_hint" = "• Neutral Expression, No Smiling\n• No Glare or Extreme Lighting";
+"liveness_retry_hint_back_lighting" = "• Light Face Evenly";
+"liveness_retry_hint_bad_lighting" = "• Light Face Evenly";
+"liveness_retry_hint_check_lighting" = "• Check Lighting and Camera Position";
+"liveness_retry_hint_face_angle" = "• Raise Camera Up To Eye Level";
+"liveness_retry_ideal_image" = "Ideal ZoOm";
+"liveness_retry_title" = "Let’s try that again";
+"liveness_retry_your_image" = "Your ZoOm";
+"liveness_try_again" = "TRY AGAIN";
