@@ -1,5 +1,6 @@
 {
   "8.0.5": "https://raw.githubusercontent.com/SumSubstance/KYC-iOS-Release/master/Deps/ZoomAuthSDK-8.0.5.zip",
   "8.0.6": "https://raw.githubusercontent.com/SumSubstance/KYC-iOS-Release/master/Deps/ZoomAuthSDK-8.0.6.zip",
-  "8.6.0": "https://raw.githubusercontent.com/SumSubstance/KYC-iOS-Release/master/Deps/ZoomAuthSDK-8.6.0.zip"
+  "8.6.0": "https://raw.githubusercontent.com/SumSubstance/KYC-iOS-Release/master/Deps/ZoomAuthSDK-8.6.0.zip",
+  "8.11.0": "https://raw.githubusercontent.com/SumSubstance/KYC-iOS-Release/master/Deps/ZoomAuthSDK-8.11.0.zip"
 }
